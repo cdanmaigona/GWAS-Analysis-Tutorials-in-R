@@ -1,0 +1,46 @@
+﻿Genotype,Environment,Repetition,y
+Cv1,College Station,1,8
+Cv1,College Station,2,10
+Cv1,College Station,3,11
+Cv1,Lubbock,1,5
+Cv1,Lubbock,2,9
+Cv1,Lubbock,3,8
+Cv1,El Paso,1,3
+Cv1,El Paso,2,3
+Cv1,El Paso,3,5
+Cv2,College Station,1,12
+Cv2,College Station,2,9
+Cv2,College Station,3,10
+Cv2,Lubbock,1,6
+Cv2,Lubbock,2,4
+Cv2,Lubbock,3,5
+Cv2,El Paso,1,5
+Cv2,El Paso,2,4
+Cv2,El Paso,3,7
+Cv3,College Station,1,2
+Cv3,College Station,2,4
+Cv3,College Station,3,3
+Cv3,Lubbock,1,1
+Cv3,Lubbock,2,3
+Cv3,Lubbock,3,4
+Cv3,El Paso,1,2
+Cv3,El Paso,2,1
+Cv3,El Paso,3,3
+Cv4,College Station,1,1
+Cv4,College Station,2,2
+Cv4,College Station,3,4
+Cv4,Lubbock,1,1
+Cv4,Lubbock,2,2
+Cv4,Lubbock,3,4
+Cv4,El Paso,1,1
+Cv4,El Paso,2,2
+Cv4,El Paso,3,1
+Cv5,College Station,1,14
+Cv5,College Station,2,18
+Cv5,College Station,3,20
+Cv5,Lubbock,1,17
+Cv5,Lubbock,2,19
+Cv5,Lubbock,3,24
+Cv5,El Paso,1,12
+Cv5,El Paso,2,15
+Cv5,El Paso,3,22
